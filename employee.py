@@ -8,3 +8,6 @@ d = software #department
 print("Department:",d)
 salary  = float(input("salary : "))
 print("Salary :",salary)
+
+Age = 32
+print("Age: ",Age)
